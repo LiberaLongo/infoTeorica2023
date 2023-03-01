@@ -1,0 +1,14 @@
+info teorica
+es 1 lesson 1 ventiuno febb
+
+Sigma = {1, blank}
+Sigma_L = {1}
+Q = {q0, q1, h}
+H = {h}
+funzione di transizione
+
+aggiunge 1
+
+es 2
+
+
