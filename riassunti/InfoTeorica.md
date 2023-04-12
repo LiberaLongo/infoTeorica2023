@@ -92,7 +92,7 @@ Una macchina di Turing è una tupla $⟨ \Sigma, Q, q_0, H, \delta ⟩$
 - $\Sigma$ é un **alfabeto** finito di simboli, che include un simbolo speciale ⊔ che indica una cella vuota.
 - $Q$ é un insieme finito di **stati**.
 - $q_0 \in Q$ é lo **stato iniziale**.
-- $H \sube Q$ é l’insieme degli stati accettanti (o nali).
+- $H \subseteq Q$ é l’insieme degli stati accettanti (o finali).
 - $\delta$ é la **funzione di transizione** (ed è una funzione) **totale**
 $$\delta : (Q \setminus H) \times \Sigma \rightarrow Q \times \Sigma \times \{ \rightarrow , \leftarrow \}$$
 
